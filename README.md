@@ -1,5 +1,5 @@
 ## Pump.fun Solana Trading and Sniping Bot
-![Screenshot](image.png)
+![Screenshot](bot.png)
 
 Welcome to the Pump.fun Solana Trading Bot! This tool, developed by TreeCityWes.eth of HashHead.io, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
 
