@@ -39,6 +39,7 @@ The Solana Trading Bot helps you trade tokens on the Pump.fun on Solana blockcha
 3. **Set up your environment variables**:
    Create a .env file in the root directory and add the following:
   
+   ```env
    SOLANA_WALLET_PATH=/path/to/your/solana/wallet.json
    MINIMUM_BUY_AMOUNT=0.015
    MAX_BONDING_CURVE_PROGRESS=10
